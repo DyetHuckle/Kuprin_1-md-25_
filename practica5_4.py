@@ -20,6 +20,6 @@ print("Отсортированная команда:", sorted_team)
 
 ivanov_count = team.count("Иванов")
 if ivanov_count > 0:
-    print(f"Студент 'Иванов' входит в команду. Количество вхождений: {ivanov_count}")
+    print(f"Студент 'Иванов' входит в коjманду. Количество вхождений: {ivanov_count}")
 else:
     print("Студент 'Иванов' не входит в команду.")
